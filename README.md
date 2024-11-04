@@ -2,6 +2,8 @@
 
 This project explores and implements two advanced methodologies—Extended Kalman Filter (EKF) and Model Predictive Control (MPC)—to enhance the localization and trajectory control capabilities of an autonomous wheeled mobile robot. Through the integration of EKF and MPC, this system provides precise position estimation and smooth trajectory tracking, even in the presence of sensor noise and environmental uncertainties.
 
+![Wheeled Robot - PyBullet Simulation](images/Robot_PyBullet.png)
+
 ## Project Overview
 
 The main goals of this project are:
